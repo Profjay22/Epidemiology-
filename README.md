@@ -1,6 +1,3 @@
-
-
-```markdown
 # Epidemic Dynamics Analysis with SIRV Model
 
 ## Description
@@ -15,7 +12,7 @@ To run the project, ensure you have Python 3.11 installed on your system. Clone 
 git clone https://github.com/your_username/epidemic-dynamics-analysis.git
 cd epidemic-dynamics-analysis
 pip3.11 install -r requirements.txt
-```
+
 
 ## Usage
 
