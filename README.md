@@ -12,7 +12,7 @@ To run the project, ensure you have Python 3.11 installed on your system. Clone 
 git clone https://github.com/Profjay22/Epidemiology-.git
 cd epidemiology_simulation
 pip3.11 install -r requirements.txt
-
+```
 
 ## Usage
 
@@ -33,6 +33,6 @@ The results demonstrate the effectiveness of integrating NPIs into the SIRV mode
 ## Contact
 
 For any questions or feedback, please contact [230017994].
-```
+
 
 
